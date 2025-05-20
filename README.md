@@ -13,7 +13,8 @@ To set up and run this project locally:
 
 2. Navigate to the project directory:
    ```
-   cd Memory_Match_Game1
+   cd MemoryMatchGame
+
    ```
 
 3. Install dependencies:

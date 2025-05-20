@@ -270,5 +270,3 @@ class CardModel {
   CardModel({required this.value, this.isFaceUp = false, this.isMatched = false});
 }
 
-// Thanks to NuranTgyv for UI feedback!
-
